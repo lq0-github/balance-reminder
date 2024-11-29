@@ -165,7 +165,7 @@ const BalanceReminder: React.FC<BalanceReminderProps> = ({
      border border-dark-300 w-96 rounded-md flex 
      xsm:bottom-8 xsm:right-0 xsm:left-0 xsm:top-auto xsm:transform-none xsm:w-screen
      xsm:border-0 xsm:rounded-none xsm:rounded-t-md xsm:bg-dark-230"
-      style={{ zIndex: "999" }}
+      style={{ zIndex: "98" }}
     >
       <div className="mt-4 xsm:mt-6">
         <RemindIcon className="w-5 h-5 xsm:w-7 xsm:h-7" />
